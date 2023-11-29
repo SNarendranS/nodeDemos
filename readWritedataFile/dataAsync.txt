@@ -1,0 +1,9 @@
+new data async runuser details user1={
+    'name':'Narendran',
+    'gmail':'naren@gmail.com',
+    'age':21
+} user2={
+    'name':'David',
+    'gmail':'dd@gmail.com',
+    'age':23
+}
